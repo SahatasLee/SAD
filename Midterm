@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T10:33:43.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="h8C-NfI4xBtw52Fp742s" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T10:38:48.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="g5Sd9lr-CvUEL6k_KX17" version="15.2.9" type="github">
   <diagram id="JqFEPn73R9oVGJXldISg" name="Page-1">
-    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xhzsW1F2NHW1MQz7ERNm-132" value="-members&lt;br&gt;1...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xhzsW1F2NHW1MQz7ERNm-106">
+        <mxCell id="xhzsW1F2NHW1MQz7ERNm-132" value="-members&lt;br&gt;0...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xhzsW1F2NHW1MQz7ERNm-106">
           <mxGeometry x="0.9545" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -283,7 +283,7 @@
         <mxCell id="xhzsW1F2NHW1MQz7ERNm-133" value="-&lt;u&gt;parliament&lt;/u&gt;&lt;br&gt;0...1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="485" y="520" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xhzsW1F2NHW1MQz7ERNm-134" value="-ministers&lt;br&gt;1...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xhzsW1F2NHW1MQz7ERNm-134" value="-ministers&lt;br&gt;0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="985" y="770" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
