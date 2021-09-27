@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T10:24:21.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="7Z9Q2oyoiGOKktEw2qFS" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-27T10:30:19.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="U9xCTq93b2VRH2pSNif2" version="15.2.9" type="github">
   <diagram id="JqFEPn73R9oVGJXldISg" name="Page-1">
-    <mxGraphModel dx="2374" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1385" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,6 +207,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xhzsW1F2NHW1MQz7ERNm-132" value="members&lt;br&gt;0...*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xhzsW1F2NHW1MQz7ERNm-106">
+          <mxGeometry x="0.9545" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xhzsW1F2NHW1MQz7ERNm-109" value="" style="endArrow=diamondThin;html=1;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.997;exitY=0.312;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;" edge="1" parent="1" source="xhzsW1F2NHW1MQz7ERNm-26" target="xhzsW1F2NHW1MQz7ERNm-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="533" as="sourcePoint" />
@@ -274,6 +279,12 @@
           <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
             <mxPoint x="6" y="-9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xhzsW1F2NHW1MQz7ERNm-133" value="parliament&lt;br&gt;0...1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="520" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xhzsW1F2NHW1MQz7ERNm-134" value="ministers&lt;br&gt;0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="990" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
